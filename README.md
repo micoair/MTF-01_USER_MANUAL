@@ -53,6 +53,8 @@ The output protocol of MTF-01 can be switched quickly with the MicoAssistant, a 
 
 Connect the MTF-01 to PC by using the USB to TTL module.
 
+![](https://github.com/micoair/MTF-01_USER_MANUAL/blob/main/pic/connect_mtf01_to_ttl.jpg)
+
 - Step2
 
 Open the windwos device manager and check if the USB moduleis has been recognized.
@@ -61,6 +63,8 @@ Open the windwos device manager and check if the USB moduleis has been recognize
 
 Open the MicoAssistant software, select the correct COM in the upper right corner, baudrate should be 115200, and then the connection icon.
 
+![](https://github.com/micoair/MTF-01_USER_MANUAL/blob/main/pic/micoassistant_mainpage.png)
+
 - Step4
 
 If the MTF-01 has been successfully connected, the software will recognize it, and will output some messages and display the firmware version in the lower right corner. Then you can click the "SETUP"(gear) icons to open the setup page, it will happens nothing if there is any wrong with the connection, and you should check the previous steps.
@@ -68,4 +72,6 @@ If the MTF-01 has been successfully connected, the software will recognize it, a
 - Step5
 
 Select the protocol you want to use in the setup page, and then click the write button, the output protocol of the module will be successfully modified, and the software message box should display a message that the setting is successful.
+
+![](https://github.com/micoair/MTF-01_USER_MANUAL/blob/main/pic/micoassistant_setup_page.jpg)
 
