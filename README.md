@@ -75,3 +75,6 @@ Select the protocol you want to use in the setup page, and then click the write 
 
 ![](https://github.com/micoair/MTF-01_USER_MANUAL/blob/main/pic/micoassistant_setup_page.jpg)
 
+## Attention
+The MicoAssistant software may crash in some language versions of Windows systems. You can try using the "no_chart" version.
+
